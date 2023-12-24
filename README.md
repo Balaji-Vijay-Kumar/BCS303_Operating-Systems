@@ -7,3 +7,6 @@ Collections of simple codes will be provided in this repository to assist studen
 # Remember, your growth as a coder and your deep understanding of these concepts will stem from your efforts and perseverance in crafting your solutions.
 
 # Happy coding and exploring Operating Systems!
+
+# Thanks and Regards,
+# Balaji Vijay

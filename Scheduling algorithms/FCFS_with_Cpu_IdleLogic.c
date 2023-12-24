@@ -103,6 +103,7 @@ int main() {
 
 
 /*Sample Input to be given to the program:
+
 Enter the number of processes: 5
 Enter Arrival Time for Process 1: 2
 Enter Burst Time for Process 1: 6
@@ -113,4 +114,6 @@ Enter Burst Time for Process 3: 7
 Enter Arrival Time for Process 4: 6
 Enter Burst Time for Process 4: 4
 Enter Arrival Time for Process 5: 8
-Enter Burst Time for Process 5: 5*/
+Enter Burst Time for Process 5: 5
+
+*/

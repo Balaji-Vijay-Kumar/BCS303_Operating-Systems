@@ -103,6 +103,7 @@ int main() {
 
 
 /*Sample Input to be given to the program:
+// Output of the program
 
 Enter the number of processes: 5
 Enter Arrival Time for Process 1: 2
